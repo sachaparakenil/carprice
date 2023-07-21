@@ -1,3 +1,7 @@
+Description
+
+### [carprice](https://github.com/sachaparakenil/carprice) is my project.
+
 The project I have developed combines Jupiter Notebook and web development to create a powerful tool for predicting car prices based on various data points. By leveraging machine learning algorithms and a user-friendly interface, this project assists users in estimating the value of a car given inputs such as the company name, car model, year of purchase, fuel type, and number of kilometers driven.
 
 The project utilizes Jupyter Notebook, an interactive coding environment, which allows for the seamless integration of data manipulation, analysis, and machine learning techniques. By employing libraries such as Pandas, NumPy, and Scikit-learn, the data provided by the user is processed and transformed into a format suitable for predictive modeling.
