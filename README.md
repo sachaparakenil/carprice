@@ -11,3 +11,6 @@ The web development aspect of the project involves creating a user interface tha
 Behind the scenes, the machine learning model trained on a vast dataset of car sales information learns the patterns and correlations between the input data and the corresponding prices. This allows the model to generate reliable predictions for car prices based on the provided parameters.
 
 By combining the power of Jupyter Notebook and web development, this project offers a seamless and user-friendly experience for predicting car prices. Whether you are a car buyer, seller, or simply curious about the market value of a particular vehicle, this tool can provide valuable insights and assist you in making informed decisions.
+
+<img src="https://github.com/sachaparakenil/carprice/blob/main/demo.png" height="390"/> &#160;
+<img src="https://github.com/sachaparakenil/MyHostel/blob/master/screenshot/a1.jpg" height="390"/> &#160;
